@@ -5,10 +5,10 @@ public class Q1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Informe p 1ª número: ");
+        System.out.println("Informe o 1ª número: ");
         double N1=sc.nextDouble();
 
-        System.out.println("Informe p 2ª número: ");
+        System.out.println("Informe o 2ª número: ");
         double N2=sc.nextDouble();
 
         double soma=N1 + N2;

@@ -1,3 +1,5 @@
+import Aula17.Cliente;
+
 public class ClientePJ extends Cliente{
     private String cnpj;
 

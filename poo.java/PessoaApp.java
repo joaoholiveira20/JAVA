@@ -1,3 +1,5 @@
+import Aula17.Pessoa;
+
 public class PessoaApp {
     public static void main(String[] args) {
         Pessoa p1 = new Pessoa(1, "joao");

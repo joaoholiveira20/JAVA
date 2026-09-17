@@ -1,3 +1,5 @@
+import Aula17.Cliente;
+
 public class ClientePF extends Cliente{
     private String cpf;
 

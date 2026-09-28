@@ -1,3 +1,4 @@
+package Atvai;
 public class Pedido {
     private int numero;
     private String cliente;

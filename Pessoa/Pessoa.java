@@ -1,4 +1,4 @@
-package Aula17;
+package Pessoa;
 
 public class Pessoa {
 

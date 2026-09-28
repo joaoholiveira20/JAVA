@@ -1,4 +1,4 @@
-import Aula17.Pessoa;
+package Pessoa;
 
 public class PessoaApp {
     public static void main(String[] args) {

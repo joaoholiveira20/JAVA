@@ -1,3 +1,4 @@
+package Pessoa;
 public class poo1 {
 
     // sem parâmetro e sem retorno

@@ -1,6 +1,5 @@
-import Pessoa;
+import Pessoa.Pessoa;
 
-package Aula17;
 public class Cliente extends Pessoa implements Pagamento{
     
     public Cliente(String nome) {

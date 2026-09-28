@@ -1,3 +1,5 @@
+import Atvai.Pagamento;
+
 public class ContaCorrente extends Conta implements Pagamento {
 
     public ContaCorrente(String numero, String titular, double saldoInicial, Agencia agencia) {

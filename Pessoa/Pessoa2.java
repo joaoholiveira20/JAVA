@@ -1,9 +1,10 @@
-public class Pessoa {
+package Pessoa;
+public class Pessoa2 {
     //encapsular
     private int codigo;
     private String nome;
 
-    public Pessoa(int codigo, String nome){
+    public Pessoa2(int codigo, String nome){
         this.codigo=codigo;
         this.nome=nome;
     }

@@ -1,4 +1,5 @@
 import Atvai.Pagamento;
+import Conta.Conta;
 
 public class ContaCorrente extends Conta implements Pagamento {
 

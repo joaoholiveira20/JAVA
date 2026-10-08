@@ -12,7 +12,7 @@ public class Ex06 {
             bw.write("Terceira linha");
             bw.nextLine();
             bw.write("Quarta linha");
-
+            
             bw.close();
             System.out.println("Escrita concluida");
         }catch(IOException e){
